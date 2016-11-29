@@ -26,6 +26,10 @@
     	<artifactId>bcprov-jdk15on</artifactId>
     	<version>1.55</version>
 	</dependency>
-        
+    <dependency>
+    	<groupId>org.mockito</groupId>
+    	<artifactId>mockito-all</artifactId>
+    	<version>1.10.19</version>
+	</dependency> 
   </dependencies>
 </project>
